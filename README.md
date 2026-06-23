@@ -207,7 +207,7 @@ customer_sales["IncomeGroup"] = pd.cut(customer_sales["YearlyIncome"],
 
 **Revenue & Growth** — Revenue growth was driven entirely by customer volume, not higher spending per order. Unique customers grew from 1,013 in 2005 to 11,377 in 2008, while AOV declined from ~$3,200 to ~$800 over the same period.
 
-**Product Performance** — Road Bikes (~$5.54M profit) and Mountain Bikes (~$4.51M profit) dominate. Accessories achieved 62.6% margins but contributed only ~$0.70M in revenue — a significant untapped opportunity. Clothing produced the lowest revenue (~$0.34M) and profit (~$0.14M) of any category.
+**Product Performance** — Road Bikes ($5.54M profit) and Mountain Bikes ($4.51M profit) dominate. Accessories achieved 62.6% margins but contributed only $0.70M in revenue — a significant untapped opportunity. Clothing produced the lowest revenue ($0.34M) and profit ($0.14M) of any category.
 
 **Regional Performance** — Australia led all regions. Profit margins were tightly clustered at 41–45% across all territories, confirming that regional differences are volume-driven rather than reflecting any structural cost or efficiency advantage.
 
