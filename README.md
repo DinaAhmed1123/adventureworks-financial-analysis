@@ -253,15 +253,18 @@ A Power BI version of the dashboard is currently in development and will be adde
 
 ```
 adventureworks-financial-analysis/
-|
-|-- data/                         # Source data files (not included — available on Kaggle)
-|-- sql/                          # SQL scripts for data validation and quality checks
-|-- notebooks/                    # Python/pandas analysis notebooks
-|-- dashboard/                    # Dashboard source code (Python + JS/React)
-|-- README.md
+│
+├── dashboard/
+│   ├── index.html                       # Interactive dashboard
+│   ├── script.js                        # Dashboard logic and visualizations
+│   └── style.css                        # Dashboard styling
+│
+├── analysis.ipynb                       # Python analysis notebook
+├── project_log.pdf                      # Project documentation and workflow log
+├── sql_python_technical_log.pdf         # Technical implementation log
+└── README.md                            # Project overview and findings
 ```
 
-> Update this section to reflect your actual repository structure before publishing.
 
 ---
 
