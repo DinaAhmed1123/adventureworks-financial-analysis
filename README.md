@@ -238,6 +238,7 @@ An interactive dashboard was developed to communicate the project's findings to 
 The dashboard was built using Python and React/JavaScript, with multiple iterations reviewed and refined for analytical accuracy and usability.
 
 > Screenshots below — full dashboard code is available in `/dashboard/`.
+🔗 [Open Interactive Dashboard](https://dinaahmed1123.github.io/adventureworks-financial-analysis/dashboard/)
 
 <img width="1314" height="665" alt="Screenshot 2026-06-23 at 9 31 02 PM" src="https://github.com/user-attachments/assets/f7f3841c-94a2-4c8b-bcd4-024789bba420" />
 <img width="1350" height="957" alt="Screenshot 2026-06-23 at 9 32 25 PM" src="https://github.com/user-attachments/assets/d9303afd-0f5f-4216-8859-feb7b0970f6b" />
